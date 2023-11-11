@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":" integrador_cac"},
+{"type":"table","name":"oradores","database":" integrador_cac","data":
+[
+{"Id_orador":"1","Nombre":"Juan","Apellido":"Pérez","Mail":"juan@example.com","Tema":"Ciberseguridad en el mundo actual","Fecha_alta":"2023-01-01"},
+{"Id_orador":"2","Nombre":"María","Apellido":"González","Mail":"maria@example.com","Tema":"Desarrollo de aplicaciones web modernas","Fecha_alta":"2023-01-02"},
+{"Id_orador":"3","Nombre":"Carlos","Apellido":"López","Mail":"carlos@example.com","Tema":"Gestión de proyectos de TI efectiva","Fecha_alta":"2023-01-03"},
+{"Id_orador":"4","Nombre":"Laura","Apellido":"Martínez","Mail":"laura@example.com","Tema":"Big Data y análisis de datos","Fecha_alta":"2023-01-04"},
+{"Id_orador":"5","Nombre":"Andrés","Apellido":"Rodríguez","Mail":"andres@example.com","Tema":"Inteligencia artificial y machine learning","Fecha_alta":"2023-01-05"},
+{"Id_orador":"6","Nombre":"Ana","Apellido":"Sánchez","Mail":"ana@example.com","Tema":"Transformación digital en las empresas","Fecha_alta":"2023-01-06"},
+{"Id_orador":"7","Nombre":"Eduardo","Apellido":"Hernández","Mail":"eduardo@example.com","Tema":"Blockchain y criptomonedas","Fecha_alta":"2023-01-07"},
+{"Id_orador":"8","Nombre":"Marta","Apellido":"Díaz","Mail":"marta@example.com","Tema":"Nube y servicios en la nube","Fecha_alta":"2023-01-08"},
+{"Id_orador":"9","Nombre":"Pedro","Apellido":"Fernández","Mail":"pedro@example.com","Tema":"IoT (Internet de las cosas) y sus aplicaciones","Fecha_alta":"2023-01-09"},
+{"Id_orador":"10","Nombre":"Sofía","Apellido":"López","Mail":"sofia@example.com","Tema":"Tendencias en ciberseguridad","Fecha_alta":"2023-01-10"}
+]
+}
+]
